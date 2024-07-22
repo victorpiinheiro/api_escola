@@ -24,6 +24,7 @@ module.exports = {
   rules: {
     'no-console': 0,
     'class-methods-use-this': 'off',
+    'import/first': 'off',
 
   },
 };
