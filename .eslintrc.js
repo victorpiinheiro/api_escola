@@ -25,6 +25,7 @@ module.exports = {
     'no-console': 0,
     'class-methods-use-this': 'off',
     'import/first': 'off',
+    'no-param-reassign': 'off',
 
   },
 };
